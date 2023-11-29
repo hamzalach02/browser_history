@@ -47,7 +47,7 @@ To achieve this hacking project:
    it means that your server is ready to get the informations.
  8. creation of the bat file 
 
-    go to your windows machine open text editor past the molicious.txt inside it
+    go to your windows machine open text editor past the molicious.txt inside it 
     
     ![2](https://github.com/hamzalach02/browser_history/assets/121760220/e6e4e4f4-fe53-45fc-a1fe-68e4e079940a)
 
