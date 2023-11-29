@@ -49,7 +49,8 @@ To achieve this hacking project:
 
     go to your windows machine open text editor past the molicious.txt inside it 
     
-    ![2](https://github.com/hamzalach02/browser_history/assets/121760220/e6e4e4f4-fe53-45fc-a1fe-68e4e079940a)
+    ![here](https://github.com/hamzalach02/browser_history/assets/121760220/6bb16838-10b6-49a6-9033-5437e3448f63)
+
 
     save as 
 
