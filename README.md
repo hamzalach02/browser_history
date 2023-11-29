@@ -64,7 +64,7 @@ To achieve this hacking project:
 ![5](https://github.com/hamzalach02/browser_history/assets/121760220/679ef9b1-d3be-4abd-845d-0c975f113d54)
 
 
-  8.open the history.txt and you'll get the informations 
+  8.open the history.txt and you'll get the browsing history of the target machine .
 
 
   ## Disclamer 
