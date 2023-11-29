@@ -12,7 +12,7 @@ Welcome to this hacking tutorial (hacking is illegal).
 
 To install this project:
 
-1. Clone the repository:
+1. Clone the repository inside your linux machine:
    ```bash
    git clone https://github.com/hamzalach02/browser_history
 ## Requirements
