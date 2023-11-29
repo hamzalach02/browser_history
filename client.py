@@ -28,8 +28,8 @@ def send_tuple(server_ip, server_port, data_tuple):
     print("Tuple sent successfully.")
 
 if __name__ == "__main__":
-    server_ip = "192.168.1.50"
-    server_port = 4014
+    server_ip = "your_linux_machine_ip"
+    server_port = 4014 #you can change the port it doesnt matter (but keep the same in the client.py)
     
 
     send_tuple(server_ip, server_port, his)
