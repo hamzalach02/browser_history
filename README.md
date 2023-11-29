@@ -27,11 +27,16 @@ To achieve this hacking project:
 To achieve this hacking project:
 1. download this repository both in your linux machine 
 2. cd to it
-4. move the client.py to the directory of the apache server :
+3. create a file history.txt add 777 permissions
+
+   
+   ![history](https://github.com/hamzalach02/browser_history/assets/121760220/594dc348-ce36-4c86-a352-199b6d6019c9)
+
+5. move the client.py to the directory of the apache server :
     ```bash
    sudo mv client.py  /var/www/html/client.py
-5. run the apache server
-6. run your server.py
+6. run the apache server
+7. run your server.py
    ```bash
    python3 server.py
    ```
@@ -40,7 +45,7 @@ To achieve this hacking project:
    ![1](https://github.com/hamzalach02/browser_history/assets/121760220/5ac35b84-af72-402a-a6f7-7e780dd5c731)
    
    it means that your server is ready to get the informations.
- 7. creation of the bat file 
+ 8. creation of the bat file 
 
     go to your windows machine open text editor past the molicious.txt inside it
     
