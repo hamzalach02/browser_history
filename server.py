@@ -20,8 +20,16 @@ def start_server(server_ip, server_port, file_path):
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server_socket.bind((server_ip, server_port))
     server_socket.listen(1)
+    print("""
+          ██╗     ████████║  ████████║  ██║   ██║  ████████║ ████████║ ███████║
+          ██║     ██║   ██║  ██║        ██║   ██║  ██║       ██║   ██║ ██║   ██║
+          ██║     ████████║  ██║        ████████║  ██║   ██║ ████████║ ███████║
+          ██║     ██║   ██║  ██║        ██║   ██║  ██║   ██║ ██║   ██║ ██║   ██║
+          ██████║ ██║   ██║  ████████║  ██║   ██║  ████████║ ██║   ██║ ██║    ██║
+                  
+      """)
 
-    print(f"Server listening on {server_ip}:{server_port}")
+     print(f"Server listening on {server_ip}:{server_port}")
 
     while True:
         client_socket, client_address = server_socket.accept()
